@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente de un Smart Contract para una subasta descentralizada, desarrollado como proyecto final del Módulo 2 del curso de Solidity. El contrato está desplegado en la red de pruebas Sepolia y ha sido verificado en Etherscan.
 
 **URL del Contrato Verificado en Sepolia Etherscan:**
-[Pega aquí la URL de tu contrato en Etherscan]
+[https://sepolia.etherscan.io/address/0x5893C7Bf08833F8470CE54E32A5000Cb3Bc3bF03#code]
 
 ---
 
